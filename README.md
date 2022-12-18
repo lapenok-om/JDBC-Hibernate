@@ -1,1 +1,1 @@
-# test1
+# JDBC/Hibernate
